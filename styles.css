@@ -1,0 +1,23 @@
+.heading{
+    padding:4rem 2rem;
+    background-color:#e9ecef;
+    max-height: 100vh;
+    border-radius: .3rem;
+    
+}
+img{
+    height: 50vh;
+    width: 100%;
+    border-radius: 3px;
+}
+#myCarousel
+{
+    
+    max-height: auto;
+    height:auto;
+    width: 100%;
+    
+}
+h5,p {
+    color:black
+}
